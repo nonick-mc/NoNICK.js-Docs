@@ -1,6 +1,7 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: docs.nonick-js.com
+favicon: static/nonickjs-sq.png
 branding:
   title: NoNICK.js
   label: Docs

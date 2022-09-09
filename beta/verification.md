@@ -16,11 +16,13 @@ order: 100
 
 ![](/static/features/verification_1.png)
 
+## 設定
+!!!
+自動認証レベル変更機能のログは[ログ機能](/beta/log.md)の`NoNICK.js`イベントに依存しています。
+!!!
 !!!
 開始時間及び終了時間は**1時間毎**しか指定できません。
 !!!
-
-## 設定
 === 全般設定
 * <span style="color: yellow; ">有効化 / 無効化</span>  
 自動認証レベル変更機能の状態を切り替えます。<br><br>

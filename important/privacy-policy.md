@@ -47,6 +47,6 @@ order: 90
 * `@everyone`、`@here`、全てのロールにメンション
 * メッセージ履歴を読む
 
-## 第5条 npmパッケージ
+## 第6条 npmパッケージ
 本サービスが使用しているnpmパッケージは、搭載している機能に必要なもののみ使用しており、かつユーザーのプライバシーに影響がないものを使用しています。<br>
 使用されているnpmパッケージは、NoNICK.jsの[Githubリポジトリ](https://github.com/nonick-mc/DiscordBot-NoNick.js )で確認が可能です。

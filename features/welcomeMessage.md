@@ -25,25 +25,25 @@ order: 100
 === 入室メッセージ
 サーバーにメンバーやBOTが参加した際にメッセージ(埋め込み)を送信します。
 
-* <span style="color: yellow; ">有効化 / 無効化</span>  
+* <span style="color: orange; ">有効化 / 無効化</span>  
 入室メッセージ機能の状態を切り替えます。<br><br>
 
-* <span style="color: yellow; ">送信先</span>  
+* <span style="color: orange; ">送信先</span>  
 入室メッセージの送信先を設定します。NoNICK.jsがそのチャンネルに `チャンネルを見る` `メッセージを送信` `埋め込みを送信` の権限が全て付与されている必要があります。<br><br>
 
-* <span style="color: yellow; ">メッセージ</span>  
+* <span style="color: orange; ">メッセージ</span>  
 入室メッセージの埋め込み内のテキストを3000文字以内で設定することができます。
 
 === 退室メッセージ
 サーバーにメンバーやBOTが脱退した際にメッセージ(テキスト)を送信します。
 
-* <span style="color: yellow; ">有効化 / 無効化</span>  
+* <span style="color: orange; ">有効化 / 無効化</span>  
 退室メッセージ機能の状態を切り替えます。<br><br>
 
-* <span style="color: yellow; ">送信先</span> 
+* <span style="color: orange; ">送信先</span> 
 退室メッセージの送信先を設定します。NoNICK.jsがそのチャンネルに `チャンネルを見る` `メッセージを送信` `埋め込みを送信` の権限が全て付与されている必要があります。<br><br>
 
-* <span style="color: yellow; ">メッセージ</span>  
+* <span style="color: orange; ">メッセージ</span>  
 退室メッセージのテキストを3000文字以内で設定することができます。
 ===
 

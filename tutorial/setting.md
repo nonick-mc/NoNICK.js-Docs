@@ -9,7 +9,6 @@ order: 80
 !!!warning
 ここでは、NoNICK.jsの設定について、実際に操作を通して学習するページです。<br>
 まずは[NoNICK.jsの導入](/tutorial/words.md)から見ることをおすすめします。<br>
-NoNICK.jsの設定に関してさらに詳しい情報を見たい場合は、[/setting](/features/setting.md)へアクセスしてください。
 !!!
 
 NoNICK.jsですべての機能をサーバーで使用するためには、**設定**を行う必要があります。

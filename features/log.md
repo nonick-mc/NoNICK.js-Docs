@@ -1,17 +1,14 @@
 ---
 icon: dot
-tag: [イベント, BETA]
+tag: [イベント]
 author: 
 - name: NoNICK
   avatar: https://media.discordapp.net/attachments/958791423161954445/975266759529623652/-3.png?width=663&height=663
-order: 100
+order: 94
 ---
 # ログ機能
 
-!!!warning
-この機能は現在開発中です。大幅な仕様変更が発生する場合があります。
-!!!
-ログ機能は、timeoutやkick、BANなどのモデレートアクションに対してログを残すことができる機能です。監査ログと異なり視覚的にわかりやすく、通知を受け取ることもできるため、複数人でサーバーを管理している際は使用をおすすめします。
+ログ機能は、timeoutやkick、BANなどの**モデレートアクションに対してログを残すことができる機能**です。監査ログと異なり視覚的にわかりやすく、通知を受け取ることもできるため、複数人でサーバーを管理している際に便利です。
 
 ![](/static/features/log_1.png)
 
@@ -28,14 +25,14 @@ order: 100
 ## 設定
 
 === 全般設定
-* <span style="color: yellow; ">有効化 / 無効化</span>  
+* <span style="color: orange; ">有効化 / 無効化</span>  
 ログ機能の状態を切り替えます。<br><br>
 
-* <span style="color: yellow; ">送信先</span>  
+* <span style="color: orange; ">送信先</span>  
 ログの送信先を設定します。NoNICK.jsがそのチャンネルに `チャンネルを見る` `メッセージを送信` `埋め込みを送信` の権限が全て付与されている必要があります。<br><br>
 
 === イベント設定
-* <span style="color: yellow; ">有効にしたいイベントを選択</span>  
+* <span style="color: orange; ">有効にしたいイベントを選択</span>  
 ログを送信するイベントを`NoNICK.js` `timeout` `kick` `ban`から選択できます。<br><br>
 
 ===

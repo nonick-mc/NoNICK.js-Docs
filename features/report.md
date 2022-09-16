@@ -49,15 +49,15 @@ order: 95
 === 全般設定
 通報機能を使用する上で基本となる設定です。
 
-* <span style="color: yellow; ">送信先</span>  
+* <span style="color: orange; ">送信先</span>  
 送られた通報の送信先を設定します。NoNICK.jsがそのチャンネルに `チャンネルを見る` `メッセージを送信` `埋め込みを送信` の権限が全て付与されている必要があります。
 
 === ロールメンション
 通報受け取り時にメンションするロールを設定することができます。モデレーターロール等を設定しておくことで、受け取った通報により素早く対応することができます。
 
-* <span style="color: yellow; ">有効化 / 無効化</span>  
+* <span style="color: orange; ">有効化 / 無効化</span>  
 ロールメンション機能の状態を切り替えます。<br><br>
 
-* <span style="color: yellow; ">ロール</span>  
+* <span style="color: orange; ">ロール</span>  
 メンションするロールを設定します。(メンション通知を受け取る場合は、NoNICK.jsに `everyone、 @here、 すべてのロールにメンション` 権限が付与されている必要があります)
 ===

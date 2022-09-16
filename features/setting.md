@@ -8,6 +8,12 @@ order: 80
 ---
 # /setting
 
+!!!success
+このコマンドの実行には`サーバー管理`権限が必要です。
 !!!
-このページは現在更新中です。
+NoNICK.jsのコントロールパネルを開くコマンドです。コントロールパネルを使用することで、NoNICK.jsに搭載されている機能のカスタマイズをすることができます。
+
+![](/static/introduction/setting_1.png)
+!!!
+コントロールパネルの使い方に関する情報は、[NoNICK.jsの設定](/tutorial/setting.md)を参照ください。
 !!!

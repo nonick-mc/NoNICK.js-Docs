@@ -21,5 +21,8 @@
   "homepage": "https://github.com/nonick-mc/NoNICK.js-Docs#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.51"
+  },
+  "dependencies": {
+    "@vuepress/client": "^2.0.0-beta.51"
   }
 }

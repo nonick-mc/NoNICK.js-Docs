@@ -12,7 +12,11 @@ NoNICK.jsの導入には、導入先のサーバーの`サーバーを管理`権
 NoNICK.jsを使うためには、まずはBOTをサーバーに導入する必要があります。<br>
 **難しい操作は必要ありません**！たった2ステップで導入できます。<br>
 
-1. [こちらのURL](https://discord.com/oauth2/authorize?client_id=970849754298863706&permissions=1391908612100&scope=applications.commands+bot)にアクセスします。
+1. NoNICK.jsのプロフィールを開き、**サーバーに追加**ボタンを選択します。
+!!!
+[こちらのURL](https://discord.com/application-directory/970849754298863706)からAppDirectory経由でNoNICK.jsを追加することもできます。
+!!!
+
 2. 外部アプリケーション認証モーダルから、導入先のサーバーを選択して「**はい**」を選択します。<br>
 (サーバーに2段階認証の必須を設定していると、2段階認証アプリのコードを求められます。)
 

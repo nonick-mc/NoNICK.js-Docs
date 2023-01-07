@@ -3,14 +3,8 @@ icon: checklist
 author: 
 - name: NoNICK
   avatar: https://media.discordapp.net/attachments/958791423161954445/975266759529623652/-3.png?width=663&height=663
-order: 90
+order: 800
 ---
-!!! success このプライバシーポリシーを簡単にまとめると...
-* 第三者と共有されるデータはありません。
-* NoNICK.jsは`サーバーID` `チャンネルID` `ロールID`を保存する場合があります。
-* 保存したデータは暗号化されません。
-* 保存したデータは、BOTをサーバーから退室させると削除されます。
-!!!
 
 # プライバシーポリシー
 **2022年6月20日 制定 - 2022年09月10日 改定**<br>

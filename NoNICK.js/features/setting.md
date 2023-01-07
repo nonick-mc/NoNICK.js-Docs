@@ -15,5 +15,5 @@ NoNICK.jsのコントロールパネルを開くコマンドです。コント�
 
 ![](/static/introduction/setting_1.png)
 !!!
-コントロールパネルの使い方に関する情報は、[NoNICK.jsの設定](/tutorial/setting.md)を参照ください。
+コントロールパネルの使い方に関する情報は、[NoNICK.jsの設定](/NoNICK.js/tutorial/setting.md)を参照ください。
 !!!

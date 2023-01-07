@@ -3,10 +3,8 @@ icon: home
 ---
 
 # ようこそ
-!!!
 DiscordBOT「NoNICK.js」および派生BOT「NoNICk.stats」の公式ドキュメントへようこそ！<br>
 このドキュメントでは、これらのBOTを使用する上での基本情報やお役立ち情報をまとめています。
-!!!
 
 ![](/static/banner.png)
 
@@ -15,16 +13,9 @@ DiscordBOT「NoNICK.js」および派生BOT「NoNICk.stats」の公式ドキュ�
 記載されていない情報に関する質問は[サポートサーバー](https://discord.gg/fVcjCNn733)にて受け付けています。
 !!!
 
-### NoNICK.jsとは？
-`nonick-mc#1017` (開発協力: `akki256.#0256`) が趣味で開発した多機能DiscordBOTです。開発者がDiscordサーバーを運営していく上で「あったら便利だな」と思った機能を多数搭載しています。
-
-### NoNICK.statsとは？
-同じく`nonick-mc#1017`が開発したDiscordBOTです。NoNICK.jsと違い、Minecraftサーバーの統計を画像で表示させることができるBOTです。
-
-## 特徴
-#### :icon-rocket: 完全無料
-課金要素はありません。搭載されている全ての機能を無料で使用することができます。
-#### :icon-zap: サーバー運営に便利な機能を搭載 (NoNICK.jsのみ)
-通報機能や認証レベル変更など、サーバー運営に役立つ便利な機能が搭載されています。[サポートサーバー](https://discord.gg/fVcjCNn733)にて自分の欲しい機能のリクエストを送ることもできます。
-#### :icon-heart: 操作が簡単で使いやすい
-BOTの使い方に慣れていなくても大丈夫！公式ドキュメントやサポートサーバーによる質問を受け付けているため、BOT初心者でも安心して使用できます。
+## 目次
+* [!badge 重要](/important/teams-of-service.md) ... BOTの利用規約、プライバシーポリシーを閲覧できます。
+* [!badge 入門](/tutorial/words.md) ... BOTの導入方法や基本的な用語について解説しています。**(今までBOTを導入したことがない方は閲覧をおすすめします)**
+* [!badge FAQ](/faq.md) ... よくある質問をまとめています。
+* [!badge NoNICK.js]() ... NoNICK.jsの機能別の解説を閲覧できます。
+* [!badge NoNICK.stats]() ... NoNICK.statsの機能別の解説を閲覧できます。

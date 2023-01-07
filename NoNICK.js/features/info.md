@@ -9,4 +9,4 @@ order: 10
 # /info
 NoNICK.jsが搭載している機能の一覧を閲覧できたり、Githubやサポートサーバー、このドキュメントに簡単にアクセスすることができるコマンドです。
 
-![](../static/features/info.png)
+![](/static/features/info.png)

@@ -11,10 +11,6 @@ links:
   link: https://discord.gg/fVcjCNn733
   icon: comment-discussion
   target: blank
-- text: Github
-  link: https://github.com/nonick-mc/DiscordBot-NoNick.js
-  icon: mark-github
-  target: blank
 - text: Twitter
   link: https://twitter.com/nonick_js
   target: blank

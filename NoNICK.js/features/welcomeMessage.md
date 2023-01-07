@@ -11,11 +11,11 @@ order: 100
 新規メンバーの参加を皆に通知して、メンバーを歓迎しよう！<br>
 メッセージを設定で変更することで参加した人に見てもらいたい情報を送信できます。
 
-![](../static/features/welcomeMessage_1.png)
+![](/static/features/welcomeMessage_1.png)
 
 また、BOTがサーバーに参加した場合は通常とは違う特別な埋め込みが送信されます。
 
-![](../static/features/welcomeMessage_2.png)
+![](/static/features/welcomeMessage_2.png)
 
 ## 設定
 !!!

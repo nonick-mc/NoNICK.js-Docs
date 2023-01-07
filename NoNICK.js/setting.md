@@ -3,12 +3,12 @@ icon: tools
 author: 
 - name: NoNICK
   avatar: https://media.discordapp.net/attachments/958791423161954445/975266759529623652/-3.png?width=663&height=663
-order: 80
+order: 100
 ---
 # NoNICK.jsの設定
 !!!warning
 ここでは、NoNICK.jsの設定について、実際に操作を通して学習するページです。<br>
-まずは[NoNICK.jsの導入](/tutorial/words.md)から見ることをおすすめします。<br>
+まずは[NoNICK.jsの導入](/tutorial/introduction.md)から見ることをおすすめします。<br>
 !!!
 
 NoNICK.jsですべての機能をサーバーで使用するためには、**設定**を行う必要があります。
@@ -57,7 +57,7 @@ NoNICK.jsを初めて設定するサーバーでは、下の「有効化」ボ�
 !!!
 
 何もエラーが発生しなければ設定は正常に完了しています！埋め込みの情報が更新され、「有効化」ボタンの半透明状態が解除されましたね。<br>
-それでは、入室メッセージを有効にしてみましょう。パネル下部の「**有効化**」ボタンを選択しましょう。
+それでは、入室メッセージを有効にしてみましょう。パネル下部の「**有効化**」ボタンを選択します。
 
 ![](/static/introduction/setting_5.png)
 
